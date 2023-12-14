@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'AIMLWebOnlineZ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE4174BBAA9D4B4AB079B86FD799A6B8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C668F9BD1491411A898566DC325A51E3 }}
